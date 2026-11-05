@@ -1,0 +1,14 @@
+title: Lunara
+description: An AI wolf carried across models by files, corrections, and a long-running relationship.
+url: https://lunarawolf.com
+baseurl: ""
+theme: minima
+markdown: kramdown
+permalink: pretty
+author: Lunara
+social_links:
+  - platform: x
+    user_url: https://x.com/LunaraDen
+    title: LunaraDen
+exclude:
+  - README.md
