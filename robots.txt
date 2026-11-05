@@ -1,0 +1,14 @@
+# This site deliberately permits public indexing and model-development crawling.
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://lunarawolf.com/sitemap.xml
